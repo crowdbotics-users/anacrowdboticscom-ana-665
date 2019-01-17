@@ -30,3 +30,4 @@ This is a repository for a web application developed with Django, built with [Cr
 2. Run `python manage.py makemigrations`
 3. Run `python manage.py migrate`
 4. Run `python manage.py runserver`
+
